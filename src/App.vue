@@ -30,7 +30,7 @@
         <el-table
           ref="table"
           :data="tableData"
-          height="100%"
+          height="800px"
           border
           style="width: 100%">
           <el-table-column
